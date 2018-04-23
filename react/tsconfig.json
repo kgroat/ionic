@@ -15,7 +15,8 @@
     "outDir": "dist",
     "removeComments": false,
     "sourceMap": true,
-    "target": "es2015"
+    "target": "es2015",
+    "jsx": "react"
   },
   "include": [
     "src/**/*.ts"

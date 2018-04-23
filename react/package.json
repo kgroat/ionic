@@ -32,7 +32,8 @@
     "dist/"
   ],
   "devDependencies": {
-    "@ionic/core": "next",
+    "@ionic/core": "latest",
+    "@types/react": "latest",
     "react": "latest",
     "react-dom": "latest"
   },
